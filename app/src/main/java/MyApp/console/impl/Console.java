@@ -1,6 +1,6 @@
-package MyApp.Console.impl;
+package MyApp.console.impl;
 
-import MyApp.Console.IConsole;
+import MyApp.console.IConsole;
 import java.util.Scanner;
 
 public class Console implements IConsole {

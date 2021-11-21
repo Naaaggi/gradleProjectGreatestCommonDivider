@@ -1,4 +1,4 @@
-package MyApp.Console;
+package MyApp.console;
 
 public interface IConsole {
 	public String readString(String text);
